@@ -1,4 +1,3 @@
-# kuku_task_230809
 # Promo Finder
 
 Reads microdrama screenplay `.txt` files and finds 20-60s promo clips (hook at the start, cliffhanger at the end).
